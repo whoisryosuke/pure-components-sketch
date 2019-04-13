@@ -38,6 +38,7 @@
     "serve": "gatsby serve",
     "test": "echo \"Write tests! -> https://gatsby.dev/unit-testing\"",
     "sketch:build": "html-sketchapp --file public/components/index.html --out-dir sketch",
+    "sketch:test": "html-sketchapp --file test/seek-oss.html --out-dir sketch-seek",
     "html-sketchapp-install": "html-sketchapp install",
     "html-sketchapp": "html-sketchapp [...args]"
   },
